@@ -1,3 +1,16 @@
-@import './utils';
-@import './base';
-@import './components';
+
+// utils
+@import './utils/variables';
+
+// base
+@import './base/base';
+@import './base/reset';
+
+
+// components
+@import './components/container';
+@import './components/header';
+@import './components/logo';
+@import './components/';
+@import './components/';
+@import './components/';
